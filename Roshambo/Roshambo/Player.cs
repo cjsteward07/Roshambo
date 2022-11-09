@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace Roshambo
 {
-    internal class Player
+    public enum Roshambo
     {
+        rock = 1,
+        paper,
+        scissors
     }
+    public abstract class Player
+    {
+        protected string name;
+        protected Roshambo roshambo;
+
+        public abstract Roshambo GenerateRoshambo();
+
+        public string GetName()
+        {
+            return name;
+        }
+    }
+
+   
+
+
 }

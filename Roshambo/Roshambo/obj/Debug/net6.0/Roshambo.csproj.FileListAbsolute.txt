@@ -1,0 +1,15 @@
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/Roshambo.csproj.AssemblyReference.cache
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/Roshambo.GeneratedMSBuildEditorConfig.editorconfig
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/Roshambo.AssemblyInfoInputs.cache
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/Roshambo.AssemblyInfo.cs
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/Roshambo.csproj.CoreCompileInputs.cache
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/bin/Debug/net6.0/Roshambo
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/bin/Debug/net6.0/Roshambo.deps.json
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/bin/Debug/net6.0/Roshambo.runtimeconfig.json
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/bin/Debug/net6.0/Roshambo.dll
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/bin/Debug/net6.0/ref/Roshambo.dll
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/bin/Debug/net6.0/Roshambo.pdb
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/Roshambo.dll
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/ref/Roshambo.dll
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/Roshambo.pdb
+/home/colin/Documents/git/Roshambo/Roshambo/Roshambo/obj/Debug/net6.0/Roshambo.genruntimeconfig.cache

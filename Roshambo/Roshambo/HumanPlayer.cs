@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Roshambo
 {
-    internal class HumanPlayer
+    public class HumanPlayer : Player
     {
+        public HumanPlayer()
+        {
+            name = UserInput.HumanPlayerInputString();
+        }
+
+        public override Roshambo GenerateRoshambo()
+        {
+            return roshambo = Roshambo.paper;
+        }
+
     }
 }
