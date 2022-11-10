@@ -15,7 +15,7 @@ namespace Roshambo
 
         public override Roshambo GenerateRoshambo()
         {
-            return roshambo = Roshambo.Paper;
+            return roshambo = UserInput.WeaponSelector();
         }
 
     }

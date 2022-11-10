@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Roshambo
 {
-    class RockPlayer : Player
+    public class RockPlayer : Player
     {
         public RockPlayer()
         {

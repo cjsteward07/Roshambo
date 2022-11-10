@@ -15,6 +15,7 @@ namespace Roshambo
     public abstract class Player
     {
         protected string name;
+        protected int score;
         protected Roshambo roshambo;
 
         public abstract Roshambo GenerateRoshambo();
@@ -22,6 +23,16 @@ namespace Roshambo
         public string GetName()
         {
             return name;
+        }
+        
+        public int GetScore()
+        {
+            return score;
+        }
+
+        public void AddScore()
+        {
+            score++;
         }
     }
 
