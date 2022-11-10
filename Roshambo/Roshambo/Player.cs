@@ -35,8 +35,4 @@ namespace Roshambo
             score++;
         }
     }
-
-   
-
-
 }
