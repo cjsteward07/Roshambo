@@ -8,9 +8,9 @@ namespace Roshambo
 {
     public enum Roshambo
     {
-        rock = 1,
-        paper,
-        scissors
+        Rock = 1,
+        Paper,
+        Scissors
     }
     public abstract class Player
     {

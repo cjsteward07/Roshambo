@@ -11,12 +11,12 @@ namespace Roshambo
         public RockPlayer()
         {
             name = "Rock Player";
-            roshambo = Roshambo.rock;
+            roshambo = Roshambo.Rock;
         }
 
         public override Roshambo GenerateRoshambo()
         {
-            return Roshambo.rock;
+            return Roshambo.Rock;
         }
     }
 }

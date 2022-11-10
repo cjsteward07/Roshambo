@@ -15,7 +15,7 @@ namespace Roshambo
 
         public override Roshambo GenerateRoshambo()
         {
-            return roshambo = Roshambo.paper;
+            return roshambo = Roshambo.Paper;
         }
 
     }
