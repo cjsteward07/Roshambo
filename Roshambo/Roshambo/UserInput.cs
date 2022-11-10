@@ -35,10 +35,6 @@ namespace Roshambo
             while (userInput < 1 || userInput > 3);
 
             return userInput;
-
-         
-             
-        
         }
 
         public static Roshambo WeaponSelector()
@@ -95,14 +91,7 @@ namespace Roshambo
             {
                 return 1;
             }
-            return 4;
-
-
-
-
-
-
-
+            return -1;
         }
 
         public static void Start()
@@ -126,10 +115,10 @@ namespace Roshambo
 
             int userChoice = UserInput.HumanPlayerInputInt();
 
-            UserInput.Test(userChoice, humanPlayer, rockPlayer, randomPlayer);
+            UserInput.Main(userChoice, humanPlayer, rockPlayer, randomPlayer);
         }
 
-        public static void Test(int userChoice, HumanPlayer humanPlayer, RockPlayer rockPlayer, RandomPlayer randomPlayer)
+        public static void Main(int userChoice, HumanPlayer humanPlayer, RockPlayer rockPlayer, RandomPlayer randomPlayer)
         {
             int battle = 0;
             Roshambo userWeapon;
@@ -137,8 +126,6 @@ namespace Roshambo
 
             switch (userChoice)
             {
-                
-
                 case 1:
                     Console.Clear();
                     
@@ -246,16 +233,6 @@ namespace Roshambo
                     Environment.Exit(0);
                     break;
             }
-
-
-
-
-
         }
-
-
-
-
-
     }
 }
